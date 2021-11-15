@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "AFS_Easydocs",
+    "name": "Aftershock - Easydocs",
+    "description": "Makes all Autodocs in Aftershock safe",
+    "category": "rebalance",
+    "dependencies": [ "dda", "aftershock" ],
+	"obsolete": false
+  }
+]

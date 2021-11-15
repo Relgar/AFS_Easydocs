@@ -1,0 +1,25 @@
+[
+  {
+    "type": "furniture",
+    "id": "f_autodoc",
+    "name": "Autodoc Mk. XI",
+    "symbol": "*",
+    "color": "light_cyan",
+    "copy-from": "f_autodoc",
+    "flags": [ "TRANSPARENT", "AUTODOC" ],
+    "surgery_skill_multiplier": 999999,
+    "examine_action": "autodoc"
+  },
+  {
+    "type": "furniture",
+    "id": "f_autodoc_cheap",
+    "name": "salvaged autodoc",
+    "symbol": "&",
+    "color": "light_red",
+    "copy-from": "f_autodoc_cheap",
+    "flags": [ "TRANSPARENT", "AUTODOC", "CONTAINER" ],
+    "surgery_skill_multiplier": 999999,
+    "examine_action": "autodoc"
+  }
+]
+
